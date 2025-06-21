@@ -1,6 +1,7 @@
-# Face-Mesh
-A normal Face-Mesh Made with OpenCV and Mediapipe with a hint of Numpy
+👺 Face-Mesh
 
-Can be used of Emotion Detection, AI filters etc etc
+👨‍💻A normal Face-Mesh Made with OpenCV and Mediapipe with a hint of Numpy
 
-Enjoy!!!!
+🤯Can be used of Emotion Detection, AI filters etc etc
+
+🤪Enjoy!!!!
